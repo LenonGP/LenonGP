@@ -3,7 +3,7 @@
 ##
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LenonGP&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=7B68EE&bg_color=000000" alt="Lenon github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LenonGP&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=7B68EE&bg_color=000000" alt="LenonGP github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenon&layout=compact&hide_border=true&title_color=00FF00&text_color=7B68EE&bg_color=000000" />
 </div>
 
