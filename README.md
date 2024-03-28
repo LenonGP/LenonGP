@@ -8,9 +8,8 @@
 </div>
 
 
-- 🔭 I’m currently working on data science
-- 🌱 I’m currently learning web development and data science
-- 👯 I’m currently collaborate on [Integra Project](https://www.ufsm.br/orgaos-suplementares/cpd/integra)  in my college's [Data Processing Center](https://www.ufsm.br/orgaos-suplementares/cpd)
+- 👀 I’m interested in learn more and colaborate with my ideas 
+- 🌱 I’m currently learning phyton, java and c#
 - ⚡ Fun fact:  love skateboard and motocross
   
 ##
@@ -20,15 +19,6 @@
   <a href = "mailto:lenon289@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lenongp/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-
-
-
-- 👋 Hi, I’m @LenonGP
-- 👀 I’m interested in learn more and colaborate with my ideas 
-- 🌱 I’m currently learning phyton, java and c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: @lenongp on instagram 
 
 <!---
 LenonGP/LenonGP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
